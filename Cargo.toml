@@ -1,0 +1,8 @@
+[package]
+name = "Enforcing_Quadratic_Constraints_with_Additive_Constants_Using_Randomized_Inputs_in_Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.16.1"
+rand = "0.9.0"
